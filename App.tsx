@@ -40,7 +40,7 @@ export default function App() {
       {/* CABECERA: Título con estilo Barranquillero */}
       <View style={styles.header}>
         <Text style={styles.emojiLogo}>🌶️</Text>
-        <Text style={styles.tituloApp}>CuleReto</Text>
+        <Text style={styles.tituloApp}>CuleRetooo</Text>
         <Text style={styles.slogan}>¿Quién dijo miedo?</Text>
       </View>
 

@@ -58,7 +58,7 @@ export default function App() {
           </View>
         ) : (
           <View>
-            <Text style={styles.textoBienvenida}>¡Ajá! Dale a un botón para empezar el desorden.</Text>
+            <Text style={styles.textoBienvenida}>Elije verdad o reto para comenzar con la recocha 😜</Text>
           </View>
         )}
       </View>

@@ -266,3 +266,6 @@ export const LISTA_JUEGO: ItemJuego[] = [
     { id: 248, tipo: 'RETO', nivel: 'NIVEL LA VERGA', texto: 'esperalo 119' },
     { id: 249, tipo: 'RETO', nivel: 'NIVEL LA VERGA', texto: 'esperalo 120' },
 ];
+
+// Agrega esto al final de tu archivo Retos.ts
+export const NIVELES_DISPONIBLES: NivelPicante[] = ['NIVEL CAGASTÉN', 'NIVEL RELA', 'NIVEL ARREBATAO', 'NIVEL LA VERGA'];

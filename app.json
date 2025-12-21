@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tuusuario.culereto"
+      "bundleIdentifier": "com.alvarodlhz.culereto"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo-verdad-o-reto-app.png",
         "backgroundColor": "#000000"
       },
-      "package": "com.tuusuario.culereto",
+      "package": "com.alvarodlhz.culereto",
       "edgeToEdgeEnabled": true
     },
     "updates": {
